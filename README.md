@@ -1,2 +1,0 @@
-# todo
-a react project
